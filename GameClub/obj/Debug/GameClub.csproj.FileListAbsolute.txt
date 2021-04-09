@@ -1,0 +1,40 @@
+E:\Program C#\GameClub\GameClub\bin\Debug\GameClub.exe.config
+E:\Program C#\GameClub\GameClub\bin\Debug\GameClub.exe
+E:\Program C#\GameClub\GameClub\bin\Debug\GameClub.pdb
+E:\Program C#\GameClub\GameClub\obj\Debug\GameClub.csprojAssemblyReference.cache
+E:\Program C#\GameClub\GameClub\obj\Debug\App.g.cs
+E:\Program C#\GameClub\GameClub\obj\Debug\GameClub_MarkupCompile.cache
+E:\Program C#\GameClub\GameClub\obj\Debug\GameClub_MarkupCompile.lref
+E:\Program C#\GameClub\GameClub\obj\Debug\GameClub.g.resources
+E:\Program C#\GameClub\GameClub\obj\Debug\GameClub.Properties.Resources.resources
+E:\Program C#\GameClub\GameClub\obj\Debug\GameClub.csproj.GenerateResource.cache
+E:\Program C#\GameClub\GameClub\obj\Debug\GameClub.csproj.CoreCompileInputs.cache
+E:\Program C#\GameClub\GameClub\obj\Debug\GameClub.exe
+E:\Program C#\GameClub\GameClub\obj\Debug\GameClub.pdb
+E:\Program C#\GameClub\GameClub\obj\Debug\Windows\MainWindow.g.cs
+E:\Program C#\GameClub\GameClub\obj\Debug\Pages\Goust\LoginPage.g.cs
+E:\Program C#\GameClub\GameClub\obj\Debug\Windows\MainWindow.baml
+E:\Program C#\GameClub\GameClub\obj\Debug\Pages\Goust\LoginPage.baml
+E:\Program C#\GameClub\GameClub\bin\Debug\VideoMain.mp4
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\bin\Debug\VideoMain.mp4
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\bin\Debug\GameClub.exe.config
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\bin\Debug\GameClub.exe
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\bin\Debug\GameClub.pdb
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\Windows\MainWindow.g.cs
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\Pages\Goust\LoginPage.g.cs
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\App.g.cs
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\GameClub_MarkupCompile.cache
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\GameClub_MarkupCompile.lref
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\Windows\MainWindow.baml
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\Pages\Goust\LoginPage.baml
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\GameClub.g.resources
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\GameClub.Properties.Resources.resources
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\GameClub.csproj.GenerateResource.cache
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\GameClub.csproj.CoreCompileInputs.cache
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\GameClub.exe
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\GameClub.pdb
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\Interop.MediaPlayer.dll
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\Interop.WMPDXMLib.dll
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\Interop.WMPLauncher.dll
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\Interop.WMPLib.dll
+E:\Сбор моих программы на Любом языке\C#\GameClub\GameClub\obj\Debug\GameClub.csproj.ResolveComReference.cache
